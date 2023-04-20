@@ -5,10 +5,14 @@ A simple React app that allows you to add, remove, and view a list of items.
 To get started with the app, you'll need to have Node.js installed on your machine. Once you have Node.js installed, you can follow these steps to run the app locally:
 
 1.Clone this repository to your local machine.
+
 2.Navigate to the project directory in your terminal.
+
 3.Run npm install to install the required dependencies.
+
 4.Run npm start to start the app in development mode.
-5.Open http://localhost:3000 to view the app in your browser
+
+5.Open http://localhost:3000 to view the app in your browser.
 
 # How to Use
 Once you have the app running, you can add items to the list by entering a name for the item in the input field and clicking the "Add" button. You can also remove items from the list by clicking the "Delete" button next to the item.
