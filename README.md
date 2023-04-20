@@ -23,8 +23,11 @@ The app also includes a "Click me!" button that updates a counter each time it i
 This app was built using:
 
 React
+
 HTML
+
 CSS
+
 
 # Author
 
